@@ -1,0 +1,12 @@
+{
+    "proposals": [
+        {
+            "sessiontitel": "Aus dem Leben eines Coders",
+            "speakername": "Paul Hack",
+            "abstract": "Gnaa. Bla.Gnaa. Bla.Gnaa. Bla.Gnaa. Bla.Gnaa. Bla.Gnaa. Bla. Linebreaks gehen nicht. Blöd. Bla.Gnaa. Bla.Gnaa. Bla.Gnaa. Bla.",
+            "speakerfoto": "http://linksomewhere.jpg",
+            "level": 100,
+            "sessiontype": "breakout"
+        }
+    ]
+}
