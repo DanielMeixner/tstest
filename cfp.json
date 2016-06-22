@@ -31,6 +31,14 @@
             "speakerfoto": "http://awesomeness.jpg",
             "level": 100,
             "sessiontype": "breakout"
-        }
+        },
+{
+            "sessiontitel": "5th from mac session",
+            "speakername": "bla",
+            "abstract": "Gnaa. Bla.Gnaa. Bla.Gnaa. Bla.Gnaa. ",
+            "speakerfoto": "http://awesomeness.jpg",
+            "level": 100,
+            "sessiontype": "breakout"
+        },
     ]
 }
