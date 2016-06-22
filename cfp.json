@@ -7,6 +7,14 @@
             "speakerfoto": "http://linksomewhere.jpg",
             "level": 100,
             "sessiontype": "breakout"
+        },
+        {
+            "sessiontitel": "Another Session",
+            "speakername": "MC Mikey",
+            "abstract": "Gnaa. Bla.Gnaa. Bla.Gnaa. Bla.Gnaa. ",
+            "speakerfoto": "http://awesomeness.jpg",
+            "level": 100,
+            "sessiontype": "breakout"
         }
     ]
 }
